@@ -73,8 +73,6 @@ week6-spark-architecture-performance/
 ├── output/
 │   └── csv_output.csv
 │
-├── screenshots/
-│
 ├── README.md
 └── .gitignore
 ```
